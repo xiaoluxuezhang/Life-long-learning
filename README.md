@@ -4,9 +4,16 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://tobebetterjavaer.com/blog.html" target="_blank"><img src="https://img.shields.io/badge/博客-在线阅读-green.svg?style=for-the-badge"></a>
-  <a href="#联系方式" target="_blank"><img src="https://img.shields.io/badge/公众号-沉默王二-brightgreen.svg?style=for-the-badge"></a>
-  <a href="https://space.bilibili.com/513340480" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical?style=for-the-badge"></a>
-  <a href="https://tobebetterjavaer.com/download/java.html" target="_blank"><img src="https://img.shields.io/badge/计算机经典电子书-下载-yellow.svg?style=for-the-badge" alt="无套路下载"></a>
-  <a href="https://github.com/itwanger/toBeBetterJavaer" target="_blank"><img alt="Java程序员进阶之路" src="https://img.shields.io/github/stars/itwanger/toBeBetterJavaer?style=for-the-badge"></a>
+  <a href="https://blog.bossbufan.com/" target="_blank"><img src="https://img.shields.io/badge/博客-在线阅读-green.svg?style=for-the-badge"></a>
 </p>
+# 我的知识库
+> 自己的学习知识库，为了更好的**学习**和**自律**
+> **每个优秀的人，都有一段沉默的时光。**
+> **那段时光，是付出了很多努力，却得不到结果的日子，我们把它叫做扎根！**
+
+# 学习目录
+
+> 学习是个漫长的过程，是需要我们记录下来，从而鞭策自己
+> 2023 年目标：
+
+- [2023 年的目标）](docs/idea/2023target.md)
