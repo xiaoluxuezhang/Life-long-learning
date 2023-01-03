@@ -13,12 +13,6 @@
 > 每个优秀的人，都有一段沉默的时光。  
 > 那段时光，是付出了很多努力，却得不到结果的日子，我们把它叫做扎根！
 
-```
-vscode提交github时候需要重置代理模块
-git config --global --unset http.proxy
-git config --global --unset https.proxy
-```
-
 # 成长目录
 
 > 记录自己的成长和走过的错误
