@@ -18,7 +18,7 @@
 
 > 学习是个漫长的过程，是需要我们记录下来，从而鞭策自己
 
-##学习网址：
+## 学习网址：
 
 1. [Java 程序员进阶之路](https://github.com/itwanger/toBeBetterJavaer)一份通俗易懂、风趣幽默的 Java 学习指南
 2. [Go 语言学习路线](https://github.com/itwanger/toBeBetterJavaer/blob/master/docs/xuexiluxian/go.md)Go 语言越来越火了，这里整理一份 go 语言的超详细学习路线，附学习资源，可下载
