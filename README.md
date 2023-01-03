@@ -19,8 +19,12 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 
+# 成长目录
+
+> 记录自己的成长和走过的错误
+
+- [2023 年的目标](docs/idea/2023target.md)
+
 # 学习目录
 
 > 学习是个漫长的过程，是需要我们记录下来，从而鞭策自己
-
-- [2023 年的目标](docs/idea/2023target.md)
