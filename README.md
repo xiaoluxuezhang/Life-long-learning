@@ -23,7 +23,9 @@ git config --global --unset https.proxy
 
 > 记录自己的成长和走过的错误
 
-- [2023 年的目标](docs/idea/2023target.md)
+- [2022 年的目标、总结、清单](docs/idea/2023target.md)
+
+- [2023 年的目标、总结、清单](docs/idea/2023target.md)
 
 # 学习目录
 
