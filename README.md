@@ -18,8 +18,8 @@
 
 > 记录自己的成长和走过的错误
 
-- [2022 年的目标、总结、清单](docs/idea/2022sumup.md)
-- [2023 年的目标、总结、清单](docs/idea/2023target.md)
+- [2022 年的总结](docs/idea/2022sumup.md)
+- [2023 年的进行中](docs/idea/2023target.md)
 
 # 学习目录
 
