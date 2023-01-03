@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a href="https://blog.bossbufan.com/" target="_blank"><img src="https://img.shields.io/badge/博客-在线阅读-green.svg?style=for-the-badge"></a>
+  <a href="https://dfairy.github.io/dfairyblog/document/documents/markdownEmoji.html#people" target="_blank"><img src="https://img.shields.io/badge/Markdown-emoji%E5%A4%A7%E5%85%A8-green.svg?style=for-the-badge"></a>
 </p>
 
 # 我的知识库
