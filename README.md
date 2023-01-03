@@ -26,7 +26,7 @@
 
 ## 学习之路
 
-1.
+1.[Redis 的 缓存雪崩、穿透、击穿](docs/study/xuebeng-chuantou-jichuan.md)
 
 # 成长目录
 
