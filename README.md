@@ -1,4 +1,5 @@
-# Life-long-learning
-
-![](2023-01-03-11-36-56.png)
-终身学习文档，《学无止境》
+<p align="center">
+  <a href="https://tobebetterjavaer.com">
+    ![](2023-01-03-14-49-12.png)
+  </a>
+</p>
