@@ -24,7 +24,7 @@
 2. [JavaGuide](https://github.com/Snailclimb/JavaGuide)「Java 学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试
 3. [Go 语言学习路线](https://github.com/itwanger/toBeBetterJavaer/blob/master/docs/xuexiluxian/go.md)Go 语言越来越火了，这里整理一份 go 语言的超详细学习路线，附学习资源，可下载
 
-## 学习之路
+## 学习之路（消化）
 
 1.[Redis 的 缓存雪崩、穿透、击穿](docs/study/xuebeng-chuantou-jichuan.md)
 
