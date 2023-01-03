@@ -14,13 +14,6 @@
 > 每个优秀的人，都有一段沉默的时光。  
 > 那段时光，是付出了很多努力，却得不到结果的日子，我们把它叫做扎根！
 
-# 成长目录
-
-> 记录自己的成长和走过的错误
-
-- [2022 年的总结](docs/idea/2022sumup.md)
-- [2023 年的进行中](docs/idea/2023target.md)
-
 # 学习目录
 
 > 学习是个漫长的过程，是需要我们记录下来，从而鞭策自己
@@ -29,3 +22,10 @@
 
 1. [Java 程序员进阶之路](https://github.com/itwanger/toBeBetterJavaer)一份通俗易懂、风趣幽默的 Java 学习指南
 2. [Go 语言学习路线](https://github.com/itwanger/toBeBetterJavaer/blob/master/docs/xuexiluxian/go.md)Go 语言越来越火了，这里整理一份 go 语言的超详细学习路线，附学习资源，可下载
+
+# 成长目录
+
+> 记录自己的成长和走过的错误
+
+- [2022 年的总结](docs/idea/2022sumup.md)
+- [2023 年的进行中](docs/idea/2023target.md)
