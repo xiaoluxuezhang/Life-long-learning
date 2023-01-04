@@ -18,19 +18,19 @@
 
 > 学习是个漫长的过程，是需要我们记录下来，从而鞭策自己
 
-#### 工具其他：
-
-1.[内网穿透对比](docs/tools/neiwangchuantou.md)
-
 #### 学习网址：
 
 1. [Java 程序员进阶之路](https://github.com/itwanger/toBeBetterJavaer)一份通俗易懂、风趣幽默的 Java 学习指南
 2. [JavaGuide](https://github.com/Snailclimb/JavaGuide)「Java 学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试
 3. [Go 语言学习路线](https://github.com/itwanger/toBeBetterJavaer/blob/master/docs/xuexiluxian/go.md)Go 语言越来越火了，这里整理一份 go 语言的超详细学习路线，附学习资源，可下载
 
+#### 工具其他：
+
+1. [内网穿透对比](docs/tools/neiwangchuantou.md)
+
 #### 学习之路（消化）
 
-1.[Redis 的 缓存雪崩、穿透、击穿](docs/study/xuebeng-chuantou-jichuan.md)
+1. [Redis 的 缓存雪崩、穿透、击穿](docs/study/xuebeng-chuantou-jichuan.md)
 
 ### 成长目录
 
