@@ -253,6 +253,12 @@
 - CloudFlare tunnel
 - TailsCale
 - ZeroTier
+- https://www.ddnsto.com/ （网友推荐，目前最优惠的，性能还未测试）
+- https://freefrp.net/
+- https://www.gaoyixia.com/
+- https://www.wireguard.com/install/
+- https://www.natfrp.com/?page=register
+- https://chanix.github.io/TincCookbook/（此项目是分布式vpn安装教程）
 
 ![1672826673878.png](./img/1672826673878.png)
 
